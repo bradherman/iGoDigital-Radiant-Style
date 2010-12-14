@@ -1,0 +1,3 @@
+Custom stylesheets for iGoDigital Radiant deploys
+
+Copy over stylesheets/admin in Radiant app, restart server
